@@ -1,2 +1,9 @@
 # vscode_cook
-nothing
+
+## LodashSnippets
+
+我的Lodash的Snippets
+
+## .vscode
+
+vue的vscode调试配置
